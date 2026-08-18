@@ -18,7 +18,7 @@ i love coding, creating things through art, <a href="https://pranavbwg.bearblog.
 <br />
 <br />
 
-my tech stack includes `java` • `javascript` • `typescript` • `react` • `next`
+my tech stack includes `swift` • `flutter` •`java` • `javascript` • `react` • `next`
 
 <br />
 <br />
