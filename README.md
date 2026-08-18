@@ -8,7 +8,7 @@ a try-hard minimalist who wears black. in reality it's just to hide spills. i pu
 
 <br />
 <br />
-currently working <a href="https://github.com/CDNA-Technologies">@nuclei</a> as an associate system engineer on a superapp to give traditional indian banks an online presence.
+currently working <a href="https://github.com/CDNA-Technologies">@nuclei</a> as a system engineer on a superapp to give traditional indian banks an online presence.
 
 <br />
 <br />
