@@ -22,7 +22,7 @@ my tech stack includes `java` • `javascript` • `typescript` • `react` • 
 
 <br />
 <br />
-last spotted enjoying boba by the beach. 波 you can also find me on <a href="https://pranavbawg.hashnode.dev/">pranav's place</a>.
+波 you can also find me on <a href="https://pranavbawg.hashnode.dev/">pranav's place</a>.
 <br /><br />
 
 
@@ -37,7 +37,6 @@ last spotted enjoying boba by the beach. 波 you can also find me on <a href="ht
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4k6zbeo7qfi5lbn07w7s9c83t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4k6zbeo7qfi5lbn07w7s9c83t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks) -->
 
